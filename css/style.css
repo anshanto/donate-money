@@ -1,0 +1,107 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.help-people {
+    height: 600px;
+    text-align: center;
+    background-image: url("../images/banner.png");
+}
+
+.help-people p {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    color: white;
+}
+
+.help-people h1 {
+    color: white;
+    padding-top: 10px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+}
+
+.help-people-content {
+    width: 50%;
+    margin: 0px auto;
+    padding-top: 200px;
+}
+
+.donate-button {
+    background-color: tomato;
+    border: none;
+    border-radius: 5px;
+    width: 150px;
+    height: 50px;
+    font-size: 18px;
+    font-weight: 600;
+    color: white;
+    margin-top: 10px;
+}
+
+.donate-today {
+    margin-top: 130px;
+    height: 400px;
+}
+
+.donate-today p {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    color: #707070;
+    text-align: center;
+}
+
+.donate-today h1 {
+    color: black;
+    text-align: center;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+}
+
+.tk-donate {
+    margin-top: 50px;
+}
+
+.donate-content {
+    display: flex;
+    width: 70%;
+    margin: 0 auto;
+    color: #707070;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+}
+
+.money {
+    width: 135px;
+    height: 123px;
+    background: #FAFAFA;
+    border-radius: 5px;
+    margin: 0 20px;
+    color: #707070;
+    text-align: center;
+    padding-top: 50px;
+}
+
+
+.dollar {
+    width: 136px;
+    height: 123px;
+    background: #FFEEEE;
+    border: 2px solid #FF5959;
+    border-radius: 5px;
+    color: #FF5959;
+    text-align: center;
+    padding-top: 50px;
+}
