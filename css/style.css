@@ -126,8 +126,8 @@ input {
 hr {
     width: 765px;
     height: 0px;
-    align-items: center;
-    border: 2px solid #DADADA;
+    border: 1px solid #DADADA;
+    margin-left: 250px;
 }
 
 .our-donate-container {
@@ -225,4 +225,134 @@ h3 {
     height: 53px;
     margin-left: 23px;
     margin-top: 62px;
+}
+
+.update-container {
+    margin-top: 130px;
+}
+
+.update-container p {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    text-align: center;
+    color: #707070;
+    margin-top: 20px;
+}
+
+.update-container h1 {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    text-align: center;
+    color: #121212;
+}
+
+.my-update {
+    align-items: center;
+    text-align: center;
+    display: flex;
+    width: 809px;
+    height: 200px;
+    background: #FFF4D6;
+    margin-top: 50px;
+    margin-left: 250px;
+}
+
+#email {
+    width: 275px;
+    height: 48px;
+    background: #D9D9D9;
+    border-radius: 5px 0px 0px 5px;
+    text-align: center;
+    margin-left: 188px;
+}
+
+.subscribe {
+    width: 157px;
+    height: 48px;
+    background: #FF5959;
+    border-radius: 0px 5px 5px 0px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    text-align: center;
+    color: #FFFFFF;
+    border: none;
+    margin-top: 38px;
+}
+
+.ways-to-donate {
+    margin-top: 130px;
+}
+
+.donate-carites {
+    display: flex;
+}
+
+.donate-img img {
+    width: 456px;
+    height: 420px;
+    margin-left: 120px;
+    border-radius: 5px;
+}
+
+.way-details h1 {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    color: #121212;
+    margin-bottom: 15px;
+}
+
+.way-details {
+    width: 482px;
+    height: 374px;
+    margin-left: 94px;
+    margin-top: 5px;
+}
+
+.contribute {
+    width: 230px;
+    height: 56px;
+    background: #FF5959;
+    border-radius: 5px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    color: #FFFFFF;
+    border: none;
+    margin-top: 10px;
+}
+
+.footer {
+    Width: 100%;
+    Height: 177px;
+    margin-top: 130px;
+    background: #0B0D17;
+    text-align: center;
+    align-items: center;
+}
+
+.footer h2 {
+    font-family: 'Lobster';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    color: #FF5959;
+    padding-top: 43px;
+}
+
+.footer p {
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    color: #D9DBE1;
+    padding-top: 24px;
 }
